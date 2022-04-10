@@ -1,0 +1,14 @@
+{
+  "name": "{{project-name}}",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1",
+    "prettier": "2.5.1"
+  },
+  "dependencies": {}
+}
